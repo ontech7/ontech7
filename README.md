@@ -31,7 +31,7 @@ I also enjoy contributing to open-source. I’ve helped fix bugs in tools I use 
 ### 🎯 Outside of code
 
 When I’m not coding, I’m probably:
-- 📸 Shooting street & portrait photography
+- 📸 Photographing life moments [(check here on 500px!)](https://500px.com/p/ontech7/galleries/photos)
 - ☕ Dialing in the *perfect* espresso or cappuccino with freshly ground beans
 - 🧗 Climbing plastic walls (indoor bouldering)
 - 🛠️ Tinkering with 3D printers or building custom mechanical keyboards
