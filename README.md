@@ -22,6 +22,7 @@ I'm not just another dev who "gets the job done" — I'm the one who *cares* abo
 - **Backend**: `Node.js`, `Express`, `Prisma`, `MongoDB`, `PostgreSQL`, `Google Firebase`
 - **App**: `React Native`, `Expo SDK`
 - **Software**: `C`, `Java`
+- **UI/UX**: `Figma`, `Adobe Illustrator` [(check on Dribbble)](https://dribbble.com/ontech7dev/about)
 - **Currently exploring**: OpenAI’s APIs & tools — building smarter UIs with AI
 
 I also enjoy contributing to open-source. I’ve helped fix bugs in tools I use daily — from frontend libraries to Expo SDK internals.
@@ -34,7 +35,8 @@ When I’m not coding, I’m probably:
 - 📸 Photographing life moments [(check here on 500px!)](https://500px.com/p/ontech7/galleries/photos)
 - ☕ Dialing in the *perfect* espresso or cappuccino with freshly ground beans
 - 🧗 Climbing plastic walls (indoor bouldering)
-- 🛠️ Tinkering with 3D printers or building custom mechanical keyboards
+- 🛠️ 3D printing stuff on my BambuLab P1S
+- ⌨️ Building custom mechanical keyboards
 - 🎮 Ranking on PC games
 - 🎧 Getting lost in high BPM electronic music — mostly *drum & bass*
 
@@ -45,6 +47,13 @@ When I’m not coding, I’m probably:
 I'm always curious about **collaborating on exciting projects**, especially with early-stage startups that value strong engineering foundations.
 
 Feel free to reach out — I’m open to freelance gigs, part-time collaborations, or contributing to something meaningful.
+
+---
+
+### 🌱 Check my personal works
+
+- [Fast Memo - Notes in one click](https://fastmemo.vercel.app)
+- ...
 
 ---
 
