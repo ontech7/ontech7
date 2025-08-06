@@ -22,7 +22,7 @@ I'm not just another dev who "gets the job done" — I'm the one who *cares* abo
 - **Backend**: `Node.js`, `Express`, `Prisma`, `MongoDB`, `PostgreSQL`, `Google Firebase`
 - **App**: `React Native`, `Expo SDK`
 - **Software**: `C`, `Java`
-- **UI/UX**: `Figma`, `Adobe Illustrator` [(check on Dribbble)](https://dribbble.com/ontech7dev/about)
+- **UI/UX**: `Figma`, `Adobe Illustrator` [(check on Dribbble)](https://dribbble.com/ontech7dev)
 - **Currently exploring**: OpenAI’s APIs & tools — building smarter UIs with AI
 
 I also enjoy contributing to open-source. I’ve helped fix bugs in tools I use daily — from frontend libraries to Expo SDK internals.
