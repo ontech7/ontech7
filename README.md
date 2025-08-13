@@ -32,8 +32,8 @@ I also enjoy contributing to open-source. I’ve helped fix bugs in tools I use 
 ### 🎯 Outside of code
 
 When I’m not coding, I’m probably:
-- 📸 Photographing life moments [(check on 500px!)](https://500px.com/p/ontech7/galleries/photos)
-- ☕ Dialing in the *perfect* [espresso](https://500px.com/photo/1115691473/espresso-by-andrea-losavio) or cappuccino with freshly ground beans
+- 📸 [Photographing](https://500px.com/p/ontech7/galleries/photos) life moments
+- ☕ Dialing in the *perfect* [espresso](https://vimeo.com/1109594645) or cappuccino with freshly ground beans
 - 🧗 Climbing plastic walls (indoor bouldering)
 - 🛠️ 3D printing stuff on my BambuLab P1S
 - ⌨️ Building custom mechanical keyboards
