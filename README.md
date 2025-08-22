@@ -18,7 +18,7 @@ I'm not just another dev who "gets the job done" — I'm the one who *cares* abo
 
 ### 🔧 Tech stack I work with
 
-- **Frontend**: `HTML5`, `CSS3`, `JavaScript/TypeScript`, `React`, `Next.js`
+- **Frontend**: `HTML5`, `CSS3`, `JavaScript/TypeScript`, `React`, `Next.js`, [`Miniframe`](https://github.com/9elt/miniframe)
 - **Backend**: `Node.js`, `Express`, `Prisma`, `MongoDB`, `PostgreSQL`, `Google Firebase`
 - **App**: `React Native`, `Expo SDK`
 - **Software**: `C`, `Java`
