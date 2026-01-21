@@ -1,4 +1,4 @@
-<img width="997" height="90" alt="GitHub - Cover" src="https://github.com/user-attachments/assets/870facb5-ad61-45fd-a828-d186a0bd8c7c" />
+<img width="997" height="90" alt="GitHub - Cover" src="https://github.com/user-attachments/assets/e35a2ed7-37fe-498b-9091-7f63ef9f04f1" />
 
 # 🧙‍♂️ Turning chaos into clarity  
 
