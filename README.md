@@ -2,7 +2,7 @@
 
 # Freelance Web & App Developer
 
-I build web and mobile applications, building clean and scalable solutions.
+I build web and mobile applications, making clean and scalable solutions.
 
 ### What I work with
 
