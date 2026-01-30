@@ -1,32 +1,24 @@
 <img width="997" height="90" alt="GitHub - Cover" src="https://github.com/user-attachments/assets/e35a2ed7-37fe-498b-9091-7f63ef9f04f1" />
 
-# 🧙‍♂️ Turning chaos into clarity  
+# Freelance Web & App Developer
 
-I’m a **freelance web & app developer** focused on building clean, scalable solutions.
+I build web and mobile applications, building clean and scalable solutions.
 
-### 💼 What I do  
-- Develop modern web & mobile apps with modern technologies
-- Improve and refactor existing projects  
-- Bring structure to complex codebases  
-- Provide ideas and feedback, not just execution  
+### What I work with
 
-### 🔧 Tech stack  
-- **Frontend**: `HTML5`, `CSS3`, `JavaScript/TypeScript`, `React`, `Next.js`, [`Miniframe`](https://github.com/9elt/miniframe)
-- **Backend**: `Node.js`, `Express`, `Prisma`, `MongoDB`, `PostgreSQL`, `Google Firebase` 
-- **Apps**:  `React Native`, `Expo SDK`
-- **Software**: `C`, `Java` 
-- **UI/UX**: `Figma`, `Adobe Illustrator` [(check on Dribbble)](https://dribbble.com/ontech7dev/about)
+**Frontend** — React, Next.js, TypeScript, [Miniframe](https://github.com/9elt/miniframe)  
+**Backend** — Node.js, Express, Prisma, PostgreSQL, MongoDB, Firebase  
+**Mobile** — React Native, Expo  
+**Other** — C, Java  
+**Design** — Figma, Illustrator · [Dribbble](https://dribbble.com/ontech7dev/about)
 
-I also contribute to open-source, fixing bugs in libraries and frameworks I use daily.  
+I contribute to open-source :D
 
-### 🎯 Beyond code  
-- 📸 [Photography](https://500px.com/p/ontech7/galleries/photos)  
-- ☕ [Coffee brewing](https://vimeo.com/1109594645) (espresso & cappuccino)  
-- 🧗 Indoor bouldering  
-- 🛠️ 3D printing
-- ⌨️ Custom keyboards  
-- 🎮 Gaming & 🎧 electronic music — mostly *drum & bass*
+### Outside of work
 
-### 🌱 Open to new opportunities  
-I enjoy collaborating with **startups and teams that value strong engineering foundations**.  
-> Let’s connect: [LinkedIn](http://linkedin.com/in/andrea-losavio) · DM me here on GitHub  
+[Photography](https://500px.com/p/ontech7/galleries/photos) · [Coffee](https://vimeo.com/1109594645) · Bouldering · 3D printing
+· Custom keyboards · Drum & bass
+
+### Contact
+
+[LinkedIn](http://linkedin.com/in/andrea-losavio) · [Website](https://andrealosavio.com) · DM on GitHub
