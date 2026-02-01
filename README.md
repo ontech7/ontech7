@@ -22,3 +22,9 @@ I contribute to open-source :D
 ### Contact
 
 [LinkedIn](http://linkedin.com/in/andrea-losavio) · [Website](https://andrealosavio.com) · DM on GitHub
+
+<img align="center" width="100%" src="gh-space-shooter.gif" />
+
+<div align="center">
+<sub>powered by <a href="https://github.com/czl9707/gh-space-shooter">gh-space-shooter</a></sub>
+</div>
