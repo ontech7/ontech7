@@ -19,9 +19,9 @@ I contribute to open-source :D
 [Photography](https://500px.com/p/ontech7/galleries/photos) · [Coffee](https://vimeo.com/1109594645) · Bouldering · 3D printing
 · Custom keyboards · Drum & bass
 
-### Contact
+---
 
-[LinkedIn](http://linkedin.com/in/andrea-losavio) · [Website](https://andrealosavio.com) · DM on GitHub
+<p align="center"><a href="https://linkedin.com/in/andrea-losavio">LinkedIn</a> · <a href="https://andrealosavio.com">Website</a> · DM on GitHub</p>
 
 <img align="center" width="100%" src="gh-space-shooter.gif" />
 
