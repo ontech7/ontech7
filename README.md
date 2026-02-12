@@ -23,7 +23,7 @@ I contribute to open-source :D
 
 <p align="center"><a href="https://linkedin.com/in/andrea-losavio">LinkedIn</a> · <a href="https://andrealosavio.com">Website</a> · DM on GitHub</p>
 
-<img align="center" width="100%" src="gh-space-shooter.gif" />
+<img align="center" width="100%" src="gh-space-shooter.webp" />
 
 <div align="center">
 <sub>powered by <a href="https://github.com/czl9707/gh-space-shooter">gh-space-shooter</a></sub>
